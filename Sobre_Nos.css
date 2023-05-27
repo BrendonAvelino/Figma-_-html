@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kranky&display=swap');
+
+#sobre-nos {
+
+    position: absolute;
+    width: 255px;
+    height: 50px;
+    left: 596px;
+    top: 83px;
+
+    font-family: 'Knewave';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 50px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+
+    color: #93FF82;
+
+}
+
+#texto {
+
+    position: absolute;
+    width: 900px;
+    height: 492px;
+    left: 270px;
+    top: 169px;
+
+    font-family: 'Kranky';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+
+    color: #FFFFFF;
+}
+
+
+#texto1 {
+
+    position: absolute;
+    top:0px ;
+    font-size: 25px;
+}
+
+#texto2 {
+
+    position: absolute;
+    top: 180px;
+    font-size: 25px;
+}
+
+#texto3 {
+
+    position: absolute;
+    top: 340px;
+    font-size: 25px;
+}
+
+#texto4 {
+
+    position: absolute;
+    top: 390px;
+    font-size: 25px;
+}
+

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Kotta+One&family=Koulen&display=swap');
+
+.container {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 476px;
+    height: 727px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(217, 217, 217, 0.3);
+    opacity: 0.5;
+    border: 2px solid #717070;
+    box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
+
+#imagem1 {
+
+    position: absolute;
+    width: 385px;
+    height: 184px;
+    left: 27px;
+    top: 26px;
+
+    background: url(.jpg);
+    border-radius: 45px;
+}
+
+#imagem2 {
+    position: absolute;
+    width: 385px;
+    height: 184px;
+    left: 27px;
+    top: 265px;
+
+    background: url(.jpg);
+    border-radius: 45px;
+}
+
+#imagem3 {
+
+    position: absolute;
+    width: 385px;
+    height: 184px;
+    left: 27px;
+    top: 500px;
+
+    background: url(.jpg);
+    border-radius: 45px;
+}
+
+.Titulo {
+
+    position: absolute;
+    width: 293px;
+    height: 48px;
+    left: 875px;
+    top: 115px;
+
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #70FF00;
+
+}
+
+.texto1 {
+
+    position: absolute;
+    width: 650px;
+    height: 119px;
+    left: 710px;
+    top: 215px;
+
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    text-align: center;
+
+    color: #CEDA86;
+
+}
+
+.texto2 {
+
+    position: absolute;
+    width: 579px;
+    height: 139px;
+    left: 720px;
+    top: 324px;
+
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    text-align: center;
+
+    color: #CEDA86;
+}
+
+.texto3 {
+
+    position: absolute;
+    width: 845px;
+    height: 104px;
+    left: 605px;
+    top: 437px;
+
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    text-align: center;
+
+    color: #CEDA86;
+
+}
+
+.bordaregistre-se {
+
+    position: absolute;
+    width: 232px;
+    height: 56px;
+    left: 910px;
+    top: 610px;
+
+    background: rgba(217, 217, 217, 0.2);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.registre-se {
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
